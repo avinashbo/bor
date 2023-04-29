@@ -3,7 +3,7 @@ name: packager
 on:
   push:
     branches:
-      - 'main'
+      - 'develop'
     paths:
       - '**'
     tags:
